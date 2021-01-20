@@ -1,4 +1,4 @@
-# Discord tools
+# Discord tools ( pas fini béta )
 
 > *Discord tools Created by Teobre , Kazushi *
 
